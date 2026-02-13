@@ -1,8 +1,6 @@
 const prisma = require('../config/database');
 
-/**
- * Controller for Department-related operations
- */
+
 
 /**
  * POST /api/departments
